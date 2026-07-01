@@ -1,0 +1,68 @@
+canonical_identifier: bkk:krp/KR6c0160/X/v1
+canonical_location: https://kanripo.org/bkk/KR6c0160/X/v1
+canonical_set:
+  identifier: bkk:charset/cjk-v1
+  hash: sha256:0000000000000000000000000000000000000000000000000000000000000000
+metadata:
+  title: 般若心經釋疑
+  identifiers:
+    krp: KR6c0160
+    cbeta: X26n0541
+    cbeta_old_id: X26n0541
+    authorityid: CA0000200
+    json_key: X0541
+  source:
+    repository: cbeta
+    path: /home/chris/src/xml-p5/X/X26/X26n0541.xml
+    old_id: X26n0541
+  edition:
+    short: X
+assets:
+  parts:
+  - {seq: 0, filename: KR6c0160_000-X.yaml, hash: 'sha256:d257d5562d1f06dfaefb5356c6b81cd38d3f2d60f3fad1306662839ea101abfb'}
+  - {seq: 1, filename: KR6c0160_001-X.yaml, hash: 'sha256:53288ec7bbcbe907f5b3e5a79d888825a61b518a02fd58c197c79e56779135ea'}
+  markers:
+  - {seq: 0, role: markers, filename: assets/KR6c0160_000-X.markers.yaml, hash: 'sha256:d8ede0dcc9aff18aa18996327bc4e3e05b323bd0acdd453843bdf7dd2ab1cb09'}
+  - {seq: 1, role: markers, filename: assets/KR6c0160_001-X.markers.yaml, hash: 'sha256:6e2c6d69d0e6fb223bbd7d3c25a222780a79aacb8703a21f3caf98ee61a2bd95'}
+table_of_contents:
+- ref:
+    seq: 0
+    marker_id: KR6c0160_X_000-mulu-1
+    span:
+    - front
+    - 0
+    - 0
+  label: No. 541-A 心經釋疑敘
+  type: mulu
+  level: 1
+- ref:
+    seq: 0
+    marker_id: KR6c0160_X_000-mulu-2
+    span:
+    - front
+    - 380
+    - 380
+  label: 般若波羅蜜多心經釋疑
+  type: mulu
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0160_X_001-juan-start
+    span:
+    - body
+    - 0
+    - 11387
+  label: 般若波羅蜜多心經釋疑
+  type: juan
+  level: 1
+- ref:
+    seq: 1
+    marker_id: KR6c0160_X_001-mulu-1
+    span:
+    - body
+    - 10673
+    - 10673
+  label: No. 541-B 般若心經釋疑後序
+  type: mulu
+  level: 1
+hash: sha256:f8de2d4585270fa2e5a42c06fc98dff9b7f6eefe95d5df6a6d86a3094bf0b92e
