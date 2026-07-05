@@ -21,11 +21,11 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0160_000.yaml, hash: 'sha256:536dced5f2ac7ca2eb19d2c66ab88183e35a5cf4da76a8d9636f99a628d20ec4'}
-  - {seq: 1, filename: KR6c0160_001.yaml, hash: 'sha256:cf68f79fbbf7496443a5b932588fefb4a2d2f9760327bc68501dc4239959b85f'}
+  - {seq: 0, filename: KR6c0160_000.yaml, hash: 'sha256:d257d5562d1f06dfaefb5356c6b81cd38d3f2d60f3fad1306662839ea101abfb'}
+  - {seq: 1, filename: KR6c0160_001.yaml, hash: 'sha256:53288ec7bbcbe907f5b3e5a79d888825a61b518a02fd58c197c79e56779135ea'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0160_000.markers.yaml, hash: 'sha256:96dcbc17c0f554aa0d688322a5a29759ef1f4ee2152bafaae77e1182f75da04c'}
-  - {seq: 1, role: markers, filename: assets/KR6c0160_001.markers.yaml, hash: 'sha256:300cbc2905f1baca79ae5991497ba22dc17db7179878f7f2a6a8c7a8536417ef'}
+  - {seq: 0, role: markers, filename: assets/KR6c0160_000.markers.yaml, hash: 'sha256:e10bb2de6f218d290607d47f7a6d0c168bb5befd765fd4852653fc2e454f1144'}
+  - {seq: 1, role: markers, filename: assets/KR6c0160_001.markers.yaml, hash: 'sha256:d97d3fb82c076286932d218fee7150473a7e82e5aae5a0005daa50c916bde93e'}
 table_of_contents:
 - ref:
     seq: 0
@@ -67,7 +67,4 @@ table_of_contents:
   label: No. 541-B 般若心經釋疑後序
   type: mulu
   level: 1
-hash: sha256:5078b3f44a9bbe4ea4481abf0089dcb349a9295e40972043412f0dc557c056ee
-mappings:
-- canonical_identifier: bkk:mapping/variant-fold-v1
-  hash: sha256:366e8ec95655b72d3205b878dc416602f82ff8a6b5dd240168f5ee5a7c65a61e
+hash: sha256:909386a410175b87c80ee4eba0d8eb51bae30a314ebb39e3a241c34231cb0f1c
