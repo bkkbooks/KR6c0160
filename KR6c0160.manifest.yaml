@@ -21,17 +21,17 @@ editions:
 - short: X
 assets:
   parts:
-  - {seq: 0, filename: KR6c0160_000.yaml, hash: 'sha256:fd39327e11bbd842c9b06601a4ac3a7d42ebf3137df1618a0d507e6aa2f4cf63'}
+  - {seq: 0, filename: KR6c0160_000.yaml, hash: 'sha256:42d5220dfa21294544e599cf12e66c00d59200181b7708520e5849aaeb7a5f96'}
   - {seq: 1, filename: KR6c0160_001.yaml, hash: 'sha256:b344e391e5b92e0a99df5177db9e960e7aa874d1ce8e26f25a10079fa392941e'}
   markers:
-  - {seq: 0, role: markers, filename: assets/KR6c0160_000.markers.yaml, hash: 'sha256:30931f3285f6d67ace719392d5c51b770afaab9945952f26fdf4a1a49dd00de7'}
+  - {seq: 0, role: markers, filename: assets/KR6c0160_000.markers.yaml, hash: 'sha256:88df229ed1c577dc359c8b969de3f20283ba1d7ee765170469a8380b01a51a97'}
   - {seq: 1, role: markers, filename: assets/KR6c0160_001.markers.yaml, hash: 'sha256:a696742fb9666637b3f2ba56c0aaaeb9a2f80f68822da1f1ad607d111597cedf'}
 table_of_contents:
 - ref:
     seq: 0
     marker_id: KR6c0160_X_000-mulu-1
     span:
-    - front
+    - body
     - 0
     - 0
   label: No. 541-A 心經釋疑敘
@@ -41,7 +41,7 @@ table_of_contents:
     seq: 0
     marker_id: KR6c0160_X_000-mulu-2
     span:
-    - front
+    - body
     - 380
     - 380
   label: 般若波羅蜜多心經釋疑
@@ -67,7 +67,7 @@ table_of_contents:
   label: No. 541-B 般若心經釋疑後序
   type: mulu
   level: 1
-hash: sha256:919174fd36b91ec31946f2a11933dc82c4c569224ec77ea05b1feae97023a388
+hash: sha256:24fcbd2c6ae5b6ff9b43c1c60f65d68776f991739047d55072fcf0e6f56df524
 mappings:
 - canonical_identifier: bkk:mapping/variant-fold-v1
   hash: sha256:9bc9a4233a10ab6fe6494b31262c157187fd580f02a97cad91be81ccd48f7a20
